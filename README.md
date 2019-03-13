@@ -2,7 +2,10 @@
 
 **Airdition - Air Condition Template** is is a new clean and polished HTML template perfect for air conditioning and heating service companies, installation services and air appliance repair centers. A professionaly-made and good-looking website is a must for a modern business. This template has unique and 100% responsive design works on any mobile device. Powered by HTML 5, CSS 3, jQuery, with the flexibility of Bootstrap 4. The design is very elegant and modern, and also very easy to customize with 1170px grid.
 
-**Demo Url**: https://theme.uttarainfotech.com
+**Demo Url**: https://theme.uttarainfotech.com/airdition-preview/
+**Premium**: https://www.mojomarketplace.com/item/airdition-air-condition-template
+**Premium Project List**: https://www.mojomarketplace.com/store/uttaraitpark
+**Contact Us**: https://theme.uttarainfotech.com
 
 --Theme features--
 
